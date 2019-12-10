@@ -56,7 +56,7 @@ function drawBackground (ctx,background) {
 }
 
 var background = new Image();
-background.src = '../lazySantaProject/images/elements/background_web.png'
+background.src = '../images/elements/background_web.png'
 
 // function clearCanvas(e) {
 //     ctx.fillStyle = "MidnightBlue";
@@ -74,7 +74,7 @@ function drawSanta (ctx,image) {
 }
 
 var image = new Image();
-image.src = '../lazySantaProject/images/elements/santa_catching.png'
+image.src = '../images/elements/santa_catching.png'
 
 
 //Santa moving with arrow keys
@@ -92,7 +92,7 @@ body.addEventListener("keydown", santaMoving);
 // draw Presents
 
 var presentImage = new Image()
-presentImage.src = '../lazySantaProject/images/elements/present_pink.png'
+presentImage.src = '../images/elements/present_pink.png'
 
 
 function drawPresent (ctx, presentImage) {
@@ -124,7 +124,7 @@ setInterval(animate, 40);
 
 
 
-var mySound = new Audio("../lazySantaProject/sounds/catching_gift_sound.wav");
+var mySound = new Audio("../sounds/catching_gift_sound.wav");
 
 
 function checkCollisions(){
