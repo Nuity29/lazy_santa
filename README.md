@@ -3,7 +3,7 @@
 
 Welcome to LazZzy Santa game!
 
-As 23 Code Street final project we had the mission of creating a game that explained a little about the internet. We chose to explain a bit about HTML through a short tutorial, then present JavaScript game that would lead to a multiple choice question about HTML. The game idea was to work with colision between Santa and the presents.
+As 23 Code Street final project, we had the mission of creating a game that explained a little about the internet. We chose to explain a bit about HTML through a short tutorial, then present a JavaScript game that would lead to a multiple-choice question about HTML. The game idea was to work with the collision between Santa and the presents.
 
 1 - Insert your name in the first screen or chose to see who the team is behind this game.
 
